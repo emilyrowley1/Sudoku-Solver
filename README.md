@@ -1,4 +1,3 @@
-# Sudoku Solver
 # Overview
 
 This software is designed to take a sudoku puzzle and solve it.
