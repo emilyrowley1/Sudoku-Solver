@@ -18,7 +18,6 @@ This program is written in the C++ language. I didn't use any libraries but did 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/cpp/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [C++](https://cplusplus.com/doc/tutorial/arrays/)
